@@ -1,0 +1,34 @@
+@charset "UTF-8";
+/* CSS Document */
+html {
+  font-size: 62.5%; /* 16px * 62.5% = 10px */
+  width: 100%;
+  box-sizing: border-box; 
+}
+body {
+  color: #fff; /* RGB */
+  font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", "メイリオ", sans-serif;
+  font-weight: 500;/* フォントの太さ */
+  font-size: 1.6em;
+  line-height: 2.4rem;
+  text-align: center;
+  
+}
+section h2 {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+a:hover {
+  opacity: 0.5;
+}
+
+.english{font-family: "Henriette"  
+}
+
+.font-space{
+  letter-spacing:0.5;
+}
+
+.none{
+  display: none;
+}
