@@ -208,7 +208,8 @@
   text-align: center;
   margin: 0 25px 30px 25px;
   font-size: 0.875rem;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.02em;
+  line-height: 1.3em;
 }
 .br-pc {
   display: none;
@@ -344,6 +345,8 @@
   text-align: center;
   margin: 0 40px 40px;
   font-size: 0.875rem;
+  letter-spacing: 0.02em;
+  line-height: 1.4em;
 }
 .section-hometown__map iframe {
   padding-bottom: 40px;
